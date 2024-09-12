@@ -4,7 +4,10 @@
 
 btw I'm looking to collaborate with someone
 - contact: gandziygor@gmail.com
+
+ 
 - ⚡ Fun fact: Earth’s rotation is changing speed
+  
 <!--
 **doxizon/doxizon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
